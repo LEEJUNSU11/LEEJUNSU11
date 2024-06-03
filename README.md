@@ -1,4 +1,5 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Shark&color=0:6495ED,50:48D1CC,100:1E90FF&height=200&section=header&text=Taro&fontSize=90&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJUNSU11&show_icons=true&theme=radical)
 
